@@ -1,0 +1,24 @@
+{
+    "projects": {
+    
+        
+            "sharingShelf": {
+                "title": "Sharing Shelf",
+                "time": "2024-06",
+                "bDesc": "Sharing Shelf brief description",
+                "description": "I am developing simple web application to view all projects and search project by name. for that I have created class diagram something like this. for the backend I am using Typescript/JS and for the frontend I am using html.",
+                "starterImage": "./../cat.jpg",
+                "imageCarousel": {
+                    "images": [
+                        "./../woah.jpg",
+                        "./../happy.jpg"
+                        
+                    ],
+                    "descriptions": [
+                        "This is the first image description.",
+                        "This is the second image description."
+                    ]
+                }
+            }
+    }
+}
