@@ -17,7 +17,7 @@ export default function MAP({apiKey}: {apiKey: string}) {
   return (
     <div >
       
-      <APIProvider apiKey={KEY} onLoad={() => console.log('yes')} onError={(err) => console.error('oh no')}>
+      <APIProvider apiKey={KEY} onLoad={() => console.log({KEY})} onError={(err) => console.error('oh no')}>
                   <Map
             defaultZoom={18}
             className="front-map"
