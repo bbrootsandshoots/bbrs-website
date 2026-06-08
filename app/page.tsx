@@ -13,15 +13,15 @@ export default function Home() {
       <Navbar/>
       <main className="main">
         <div style={{paddingBottom: "40px"}}>
-            <h1>BBHS Roots and Shoots</h1>
+            <h1>Harkness Park</h1>
           </div>
         <div className = "brief-about">
           
-          
-          <p>Roots and Shoots is a Blind Brook High School club inspired by Jane Goodall's organization of the same name. We support the environment by carrying out various conservation and awareness projects in Harkness Park and throughout Rye Brook! </p>
+          <p>Harkness Park, located next to Blind Brook High School, is a 4-acre stretch of wildlife owned by the Village of Rye Brook which the BBHS Roots and Shoots Club aims to conserve.</p>
+
           <div className = "learn-more-button">
-            <button>
-            <a href="/about-us">Learn more about us!</a>
+          <button>
+            <a href="/projects">Learn more about what's happening in Harkness!</a>
           </button>
           </div>
           

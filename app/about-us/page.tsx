@@ -20,8 +20,7 @@ export default function Home() {
         <div className = "brief-about">
           
           
-          <p>Here is a more detailed description of our club! Roots and Shoots is a Blind Brook High School club inspired by Jane Goodall's organization of the same name. We support the environment by carrying out various conservation and awareness projects in Harkness Park and throughout Rye Brook! Here is a more detailed description of our club! Roots and Shoots is a Blind Brook High School club inspired by Jane Goodall's organization of the same name. We support the environment by carrying out various conservation and awareness projects in Harkness Park and throughout Rye Brook!  </p>
-          
+          <p>BBHS Roots and Shoots is a Blind Brook High School club inspired by Jane Goodall's organization of the same name. We support the environment by carrying out various conservation and awareness projects in Harkness Park and throughout Rye Brook! This website and the garden sign in Harkness were created by BBHS R&S.</p>
           
         </div>
         <div className = "members">
@@ -30,22 +29,26 @@ export default function Home() {
             <div className = "member-row">
               <div>
                 <img src="https://placecats.com/200/200" alt="" />
-                <p>Example Name</p>
+                <p>Ana Mattinson</p>
+                <p>Co-President</p>
               </div>
               <div>
                 <img src="https://placecats.com/200/200" alt="" />
-                <p>Example Name</p>
+                <p>Michelle Tian</p>
+                <p>Co-President</p>
               </div>
               
               </div>
             <div className = "member-row">
               <div>
                 <img src="https://placecats.com/200/200" alt="" />
-                <p>Example Name</p>
+                <p>Emma Ashley</p>
+                <p>Secretary</p>
               </div>
               <div>
                 <img src="https://placecats.com/200/200" alt="" />
-                <p>Example Name</p>
+                <p>Ava Benoit</p>
+                <p>Treasurer</p>
               </div>
             </div>
             
