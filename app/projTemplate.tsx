@@ -41,7 +41,7 @@ export default function Project({name}: {name: string}) {
         <div style={{paddingBottom: "40px", maxWidth: "550px"}}>
             <h1>{projectName}</h1>
             <h3><i>{time}</i></h3>
-            <img src={starterImage} style={{maxWidth: "90%"}}alt="" />
+            <img src={starterImage.toString()} style={{maxWidth: "90%"}}alt="" />
             <p>{description}</p>
         </div>
         <div className = "image-carousel">

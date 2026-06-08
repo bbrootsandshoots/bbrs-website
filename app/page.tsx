@@ -26,9 +26,7 @@ export default function Home() {
           </div>
           
         </div>
-        <div className = "brief-projects">
-          <p>Check out what we've been up to!</p>
-        </div>
+        
         
         
 

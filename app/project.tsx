@@ -18,7 +18,7 @@ export default function Project({name}: {name: string}) {
     <div className = "project">
         <h2>{time}</h2>
         
-        <img src={starterImage} alt={projectName} />
+        <img src={starterImage.toString()} alt={projectName} />
         <h2>{projectName}</h2>
         <p>{briefDescription}</p>
         <button>
