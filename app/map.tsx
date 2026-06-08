@@ -185,7 +185,7 @@ const MarkerWithInfoWindow = ({position, title, desc, image}: MarkerWithInfoWind
         <InfoWindow anchor={marker} onClose={handleClose}>
           <h3 style={{color: "black", fontSize: "18px", fontFamily: "Trocchi"}}>{title}</h3>
           <p style={{color: "black", fontSize: "16px", fontFamily: "Trocchi"}}>{desc}</p>
-          <img src={image.toString()} alt="" style={{width: "100%", height: "auto", borderRadius: "8px"}} />
+          <img src={image.toString()} alt="" style={{maxWidth: "300px", height: "auto", borderRadius: "8px"}} />
         </InfoWindow>
       )}
     </>
