@@ -14,7 +14,7 @@ export default function Project1() {
       <div className="page">
       <Navbar/>
       <main className="main">
-        <ProjectTemplate name="sharingShelf" />
+        <ProjectTemplate name="summerWatering" />
 
         
         
