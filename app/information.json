@@ -26,11 +26,11 @@
             "time": "June - August 2025",
             "bDesc": "Volunteers watered the native plants and weeded invasive ones in Harkness Park over the summer!",
             "description": "A handful of high school students, from Environmental Science Class, Roots and Shoots Club, and Ms. Hensley's AP Biology Class pitched in to water the new native plants and weed out the invasive mugwort and garlic mustard over the summer. Special thanks to Paul Vinci and his crew for refilling the water every week!",
-            "starterImage": "./../AreaA.JPG",
+            "starterImage": "./../AreaA.png",
             "imageCarousel": {
               "images": [
-                "./../mugwort.JPG",
-                "./../sweetfernAlley.JPG"
+                "./../mugwort.png",
+                "./../sweetfernAlley.png"
 
               ],
               "descriptions": [
