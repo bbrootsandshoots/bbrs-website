@@ -30,6 +30,6 @@ export function getUrl(name: string) {
 
 export function getProjectAll(name: string) {
     return (
-        [String(data[name].title), String(data[name].time), String(data[name].description), getUrl(name), data[name].imageCarousel.images, data[name].imageCarousel.descriptions, String(data[name].bDesc), String(data[name].starterImage)]
+        [String(data[name].title), String(data[name].time), String(data[name].description), getUrl(name), data[name].imageCarousel.images, data[name].imageCarousel.descriptions, String(data[name].bDesc), data[name].starterImage]
     );
 }
