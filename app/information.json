@@ -2,23 +2,42 @@
     "projects": {
     
         
-            "sharingShelf": {
-                "title": "Sharing Shelf",
-                "time": "2024-06",
-                "bDesc": "Sharing Shelf brief description",
-                "description": "I am developing simple web application to view all projects and search project by name. for that I have created class diagram something like this. for the backend I am using Typescript/JS and for the frontend I am using html.",
-                "starterImage": "./../cat.jpg",
+            "twoHundredPlants": {
+                "title": "Annual 200 Hundred Plants",
+                "time": "Every Year!",
+                "bDesc": "Every year, Roots and Shoots and the Environmental Science Class at BBHS has planted 200 native species in Harkness Park to promote biodiversity.",
+                "description": "Native species ensure that the ecosystem is in balance, so our goal to plant 200 native plants in Harkness Park has ensured that the foundation of the ecosystem is strengthened year after year. You can see these native species in the deer mesh, especially in Area B, C, and Sweetfern Alley. Once the plant has outgrown the mesh, the mesh is removed to allow the plant to fully grow. ",
+                "starterImage": "./../AreaB.jpg",
                 "imageCarousel": {
                     "images": [
-                        "./../woah.jpg",
-                        "./../happy.jpg"
+                        "./../AreaC.JPG",
+                        "./../AreaB.JPG"
                         
                     ],
                     "descriptions": [
-                        "This is the first image description.",
-                        "This is the second image description."
+                        "Some native plants in Area C include chokecherry and sandcherry!",
+                        "In Area B, you might notice the native winged sumac!"
                     ]
                 }
+            },
+
+          "summerWatering": {
+            "title": "Summer Watering and Weeding",
+            "time": "June - August 2025",
+            "bDesc": "Volunteers watered the native plants and weeded invasive ones in Harkness Park over the summer!",
+            "description": "A handful of high school students, from Environmental Science Class, Roots and Shoots Club, and Ms. Hensley's AP Biology Class pitched in to water the new native plants and weed out the invasive mugwort and garlic mustard over the summer. Special thanks to Paul Vinci and his crew for refilling the water every week!",
+            "starterImage": "./../AreaA.JPG",
+            "imageCarousel": {
+              "images": [
+                "./../mugwort.JPG",
+                "./../sweetfernAlley.JPG"
+
+              ],
+              "descriptions": [
+                "Mugwort outcompetes its native counterparts and can be identified by the pale underside of its leaves. ",
+                "Sweetfern Alley, opposite the tennis courts, was one of the main watering areas."
+              ]
             }
+          }
     }
 }

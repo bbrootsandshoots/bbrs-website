@@ -5,8 +5,15 @@ import {AdvancedMarker, Pin, APIProvider, Map, MapCameraChangedEvent, useMap, In
 
 type Poi ={ key: string, location: google.maps.LatLngLiteral, desc: string, image: string};
 const locations: Poi[] = [
-  {key: 'Hensley Hollow', location: { lat: 41.03302868983575, lng: -73.6744705289138}, desc: "hi", image: "https://placecats.com/200/200"},
-  {key: 'Treelandia', location: { lat: 41.0326962506437, lng: -73.67330108832924}, desc: "hello", image: "https://placecats.com/200/200"},
+  {key: 'Paupaus Tree', location: { lat: 41.032698, lng: -73.674191}, desc: "We have two paupau trees that bear a mango-like fruit!", image: "../public/paupaus.JPG"},
+  {key: 'Area B', location: { lat: 41.032832, lng: -73.674080}, desc: "This area used to be ridden with tree of heaven, an invasive plant that reproduces quicker than normal, but Roots and Shoots and Environmental Science class has since gotten rid of the tree of heaven and, over the summer, planted and watered new native plants like the winged sumac in the mesh.", image: "../public/AreaB.JPG"},
+  {key: 'Area C', location: { lat: 41.032994, lng: -73.674079}, desc: "There used to be tons of garlic mustard, an invasive plant that alters the soil chemistry, leading to fewer fungi and more harmful microorganisms. The garlic mustard has been weeded out over the summer and replaced with the numerous native plants growing in the mesh, including the hazelbert tree, serviceberry, ginkgo, bear oak, chokecherry, and sandcherry.", image: "../public/AreaC.JPG"},
+  {key: 'Sycamore Tree', location: { lat: 41.032564, lng: -73.673937}, desc: "The Sycamore has thin bark that allows it to photosynthesize through its trunk.", image: "../public/sycamore.JPG"},
+  {key: 'Tulip Tree', location: { lat: 41.032656, lng: -73.674223}, desc: "The Tulip Tree has characteristic four-pronged leaves!", image: "../public/tulipTree.JPG"},
+  {key: 'Swamp Tupelo Tree', location: { lat: 41.032652, lng: -73.674206}, desc: "The Swamp Tupelo was part of a 2021 Arbors Day installation, and can be recognized for its striking trunk.", image: "../public/swampTupelo.JPG"},
+  {key: 'Solar Digester', location: { lat: 41.032518, lng: -73.674157}, desc: "The solar digester takes unwanted food and liquifies it, allowing the nutrients to seep into the ground!", image: "../public/solarDigester.JPG"},
+  {key: 'Swamp White Oak', location: { lat: 41.032644, lng: -73.674163}, desc: "The Swamp White Oak was the second tree planted on 2021 Arbors Day, with distinctively furry leaves!", image: "../public/swampWhiteOak.JPG"}
+
 ];
 
 

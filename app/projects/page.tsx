@@ -16,13 +16,10 @@ export default function Home() {
             <p>Check out what we've been up to!</p>
         </div>
         
-       
-
 
         
-        
-        
-        <Project name = "sharingShelf"/>
+        <Project name = "twoHundredPlants"/>
+        <Project name = "summerWatering"/>
           
       </main>
     </div>
