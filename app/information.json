@@ -7,7 +7,7 @@
                 "time": "Every Year!",
                 "bDesc": "Every year, Roots and Shoots and the Environmental Science Class at BBHS has planted 200 native species in Harkness Park to promote biodiversity.",
                 "description": "Native species ensure that the ecosystem is in balance, so our goal to plant 200 native plants in Harkness Park has ensured that the foundation of the ecosystem is strengthened year after year. You can see these native species in the deer mesh, especially in Area B, C, and Sweetfern Alley. Once the plant has outgrown the mesh, the mesh is removed to allow the plant to fully grow. ",
-                "starterImage": "./../AreaB.jpg",
+                "starterImage": "./../AreaB.JPG",
                 "imageCarousel": {
                     "images": [
                         "./../AreaC.JPG",
@@ -26,7 +26,7 @@
             "time": "June - August 2025",
             "bDesc": "Volunteers watered the native plants and weeded invasive ones in Harkness Park over the summer!",
             "description": "A handful of high school students, from Environmental Science Class, Roots and Shoots Club, and Ms. Hensley's AP Biology Class pitched in to water the new native plants and weed out the invasive mugwort and garlic mustard over the summer. Special thanks to Paul Vinci and his crew for refilling the water every week!",
-            "starterImage": "./../AreaA.png",
+            "starterImage": "./../areaA.png",
             "imageCarousel": {
               "images": [
                 "./../mugwort.png",
