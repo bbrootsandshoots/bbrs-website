@@ -11,7 +11,7 @@ export default function Project({name}: {name: string}) {
     let url = getProjectAll(name)[3];
     let images = getProjectAll(name)[4];
     let starterImage = getProjectAll(name)[7];
-    print(starterImage);
+    console.log(starterImage);
     let imageDescriptions = getProjectAll(name)[5];
 
   return (
