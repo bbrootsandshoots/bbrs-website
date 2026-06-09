@@ -12,7 +12,8 @@ const locations: Poi[] = [
   {key: 'Tulip Tree', location: { lat: 41.032656, lng: -73.674223}, desc: "The Tulip Tree has characteristic four-pronged leaves!", image: "./../tulipTree.JPG"},
   {key: 'Swamp Tupelo Tree', location: { lat: 41.032652, lng: -73.674206}, desc: "The Swamp Tupelo was part of a 2021 Arbors Day installation, and can be recognized for its striking trunk.", image: "./../swampTupelo.JPG"},
   {key: 'Solar Digester', location: { lat: 41.032518, lng: -73.674157}, desc: "The solar digester takes unwanted food and liquifies it, allowing the nutrients to seep into the ground!", image: "./../solarDigester.JPG"},
-  {key: 'Swamp White Oak', location: { lat: 41.032644, lng: -73.674163}, desc: "The Swamp White Oak was the second tree planted on 2021 Arbors Day, with distinctively furry leaves!", image: "./../swampWhiteOak.JPG"}
+  {key: 'Swamp White Oak', location: { lat: 41.032644, lng: -73.674163}, desc: "The Swamp White Oak was the second tree planted on 2021 Arbors Day, with distinctively furry leaves!", image: "./../swampWhiteOak.JPG"},
+  {key: 'Sweetfern Alley', location: { lat: 41.032830, lng: -73.672509}, desc: "A beloved corner that the Environmental Science Class worked to clean up after the Turf Incident.", image: "./../sweetfernAlley.png"}
 
 ];
 
